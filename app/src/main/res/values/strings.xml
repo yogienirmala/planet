@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Planet</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">CardView</string>
+    <string name="detail">detail</string>
+    <string name="favorite">favorite</string>
+    <string name="img_item_photo">TODO</string>
+
+</resources>
